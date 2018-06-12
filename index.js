@@ -19,4 +19,4 @@ function dec(n){
   return n
 }
 
-console.log(parseInt('2.222',10))
+console.log(parseInt('nonsense',10))
