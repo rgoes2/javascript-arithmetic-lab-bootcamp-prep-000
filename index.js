@@ -18,3 +18,6 @@ function dec(n){
   n--
   return n
 }
+
+parseInt('2', 10)
+
